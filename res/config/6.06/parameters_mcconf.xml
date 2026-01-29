@@ -3755,8 +3755,6 @@ p, li { white-space: pre-wrap; }
             <enumNames>TLE5012 Encoder (SSC SW)</enumNames>
             <enumNames>TLE5012 Encoder (SSC HW)</enumNames>
             <enumNames>Custom Encoder</enumNames>
-            <enumNames>PWM</enumNames>
-            <enumNames>PWM + ABI</enumNames>
         </m_sensor_port_mode>
         <m_invert_direction>
             <longName>Invert Motor Direction</longName>
